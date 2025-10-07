@@ -1,4 +1,4 @@
-name: Relyance SCI Scan
+name: World ID
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   execute-relyance-sci:
-    name: Relyance SCI Job
+    name: Word ID
     runs-on: ubuntu-latest
     permissions:
       contents: read
